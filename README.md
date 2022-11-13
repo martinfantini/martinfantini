@@ -1,4 +1,4 @@
-<img src="https://github.com/martinfantini/martinfantini/blob/main/Images/PresntationCard.jpg" width="20" height="20">
+<img src="https://github.com/martinfantini/martinfantini/blob/main/Images/PresntationCard.jpg" width="60" height="60">
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=martinfantini&show_icons=true&hide_border=true)
